@@ -3,7 +3,15 @@
 ## Projects
 
 - [Crudus MD Notes](./Privat/Crudus&#32;MD&#32;Notes/index.md)
-- [Maximus](.Privat/Maximus/index.md)
+- [Maximus](./Privat/Maximus/index.md)
+
+## 3D Printing
+
+- [3D printing](./Privat/3D%20printing/index.md)
+
+## Electronics
+
+- [Electronics](./Privat/Electronics/index.md)
 
 ## Useful stuff
 
