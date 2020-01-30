@@ -1,5 +1,7 @@
 # Daniel's Notes
 
+[Reading list](Reading%20List.md)
+
 ## Projects
 
 - [Projects](./Projects/index.md)
