@@ -2,17 +2,17 @@
 
 ## Projects
 
-- [Crudus MD Notes](./Privat/Projects/Crudus&#32;MD&#32;Notes/index.md)
-- [Maximus](./Privat/Projects/Maximus/index.md)
+- [Crudus MD Notes](./Projects/Crudus&#32;MD&#32;Notes/index.md)
+- [Maximus](./Projects/Maximus/index.md)
 
 ## 3D Printing
 
-- [3D printing](./Privat/3D%20printing/index.md)
+- [3D printing](./3D%20printing/index.md)
 
 ## Electronics
 
-- [Electronics](./Privat/Electronics/index.md)
+- [Electronics](./Electronics/index.md)
 
 ## Useful stuff
 
-- [Useful commands](./Privat/Useful/UsefulCommands.md)
+- [Useful commands](./Useful/UsefulCommands.md)
