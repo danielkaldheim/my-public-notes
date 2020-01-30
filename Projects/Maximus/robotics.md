@@ -1,5 +1,13 @@
 # Maximus robotics
 
+## DyRET Robot
+
+![DyRET](https://robotikk.net/media/images/dyret_reconfig.gif)
+
+### Links
+
+- [DyRET Documentation](https://github.com/dyret-robot/dyret_documentation)
+
 ## Jetson Nano
 
 <https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/>
