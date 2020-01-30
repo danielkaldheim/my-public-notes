@@ -14,3 +14,9 @@ En markdown applikasjon som kan synkronisere med git.
 ### Desktop
 
 - Electron
+
+## Links
+
+- <https://libgit2.org/>
+- <https://cocoapods.org/pods/libgit2>
+- <https://github.com/libgit2/libgit2#android>

@@ -2,8 +2,8 @@
 
 ## Projects
 
-- [Crudus MD Notes](./Privat/Crudus&#32;MD&#32;Notes/index.md)
-- [Maximus](./Privat/Maximus/index.md)
+- [Crudus MD Notes](./Privat/Projects/Crudus&#32;MD&#32;Notes/index.md)
+- [Maximus](./Privat/Projects/Maximus/index.md)
 
 ## 3D Printing
 

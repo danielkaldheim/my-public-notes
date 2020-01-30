@@ -21,3 +21,9 @@ asciinema rec filename.cast
 ```sh
 asciinema play filename.cast
 ```
+
+## WiFi QR-code
+
+```sh
+qrencode -o wifi.png "WIFI:T:WPA;S:<SSID>;P:<PASSWORD>;;"
+```
