@@ -36,6 +36,7 @@
 
 ## Check out
 
+- [My business card runs linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
 - <https://www.envoyproxy.io/docs/envoy/latest/start/start>
 - <https://github.com/heptio/contour>
 - <https://www.jaegertracing.io/>

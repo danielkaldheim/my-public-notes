@@ -1,6 +1,6 @@
 # BaoFeng UV-5R
 
-![Baofeng](./uv-5r(1)LG.jpg)
+![Baofeng](./uv-5rLG.jpg)
 
 ## Features
 25KHz/12.5KHz Switchable (Wide/Narrow Band)
@@ -77,3 +77,7 @@ Output power:
 Audio Power Output
 
 700mW/10%
+
+## Links
+
+- [Manual](https://baofengtech.com/usermanual/BaoFeng_UV-5R_Manual.pdf)

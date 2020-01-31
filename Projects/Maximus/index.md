@@ -1,7 +1,8 @@
 # Maximus
 
-## Configure components
+## Components
 
+- [Stereo Pi](https://www.antratek.com/stereopi-starter-kit)
 - [Configure BNO055](BNO055.md)
 
 ## Robotics
