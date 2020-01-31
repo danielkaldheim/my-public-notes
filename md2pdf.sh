@@ -9,7 +9,7 @@ touch md2PDF.md
 function findMd() {
     path=$1
     hasIndex=false
-    sedImages="s,\[(.+)\]\(.\/(.+).(jpg|png|gif)\),[\1](${path}\/\2.\3),g"
+    sedImages="s,\[(.+)\]\(.\/(.+).(jpg|png|gif|webp)\),[\1](${path}\/\2.\3),g"
     depth=$(expr $(echo "$path" | awk -F"/" '{print NF-1}') - 1)
     bangs=''
     if [ "$depth" -gt "0" ]; then
