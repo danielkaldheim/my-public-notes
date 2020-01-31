@@ -4,7 +4,7 @@
 
 **3D Printing Module:**
 
-```
+```sh
 PIN1: VCC, Heater Socket Pin 1, Fan+
 PIN2: Stepper Coil A+
 PIN3: Heater Socket Pin 2
@@ -17,7 +17,7 @@ PIN8: Stepper Coil B+
 
 **Heated Build Plate:**
 
-```
+```sh
 PIN1: Heating Element +
 PIN2: UNUSED
 PIN3: Heating Element -
@@ -30,7 +30,7 @@ The heating element registered as 12Ohms so 48W at 24V. The Thermistor gave a re
 
 **Linear Module:**
 
-```
+```sh
 PIN1: Coil A +
 PIN2: Coil A -
 PIN3: Coil B +

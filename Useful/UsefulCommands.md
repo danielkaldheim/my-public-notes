@@ -27,3 +27,28 @@ asciinema play filename.cast
 ```sh
 qrencode -o wifi.png "WIFI:T:WPA;S:<SSID>;P:<PASSWORD>;;"
 ```
+
+## Rsync
+
+[Rsync cheatsheat](https://devhints.io/rsync)
+
+```sh
+# syncing folder src into dest:
+rsync -avzP ./src /dest
+# syncing the content of src into dest:
+rsync -avzP ./src/ /dest
+```
+
+## Unite PDF documents
+
+### Install
+
+```sh
+brew install poppler
+```
+
+### Usage
+
+```sh
+pdfunite file1.pdf file2.pdf output.pdf
+```

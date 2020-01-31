@@ -2,4 +2,4 @@
 
 ## Links
 
-- https://themes.getbootstrap.com/product/milo-magazineblog-theme/
+- <https://themes.getbootstrap.com/product/milo-magazineblog-theme/>

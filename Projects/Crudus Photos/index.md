@@ -3,7 +3,7 @@
 ## Tensor flow
 
 Image to text
-![Image to text](A2399A8D-E525-49D5-B751-CC896F304C16.jpg)
+![Image to text](./A2399A8D-E525-49D5-B751-CC896F304C16.jpg)
 <https://github.com/tensorflow/models/tree/master/research/im2txt>
 
 ## Articles
