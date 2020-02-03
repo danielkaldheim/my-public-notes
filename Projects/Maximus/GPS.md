@@ -2,7 +2,6 @@
 
 ## Adafruit ultimate GPS breakout
 
-
 - -165 dBm sensitivity, 10 Hz updates, 66 channels
 - 5V friendly design and only 20mA current draw
 - Breadboard friendly + two mounting holes
@@ -102,7 +101,7 @@ cd /etc/ppp/peers/
 wget https://raw.githubusercontent.com/adafruit/FONA_PPP/master/fona
 ```
 
-Open that file to view PPPD settings when "fona" is called.
+Open that file to view PPPD settings when "fona" is called. Read more about chat and chatscripts [here](https://linux.die.net/man/8/chat).
 
 ```sh
 vim fona
@@ -116,10 +115,11 @@ You should see this:
 # MUST CHANGE: Change the -T parameter value **** to your network's APN value.
 # For example if your APN is 'internet' (without quotes), the line would look like:
 # connect "/usr/sbin/chat -v -f /etc/chatscripts/gprs -T internet"
-connect "/usr/sbin/chat -v -f /etc/chatscripts/gprs -T ****"
+connect "/usr/sbin/chat -v -f /etc/chatscripts/gprs -T telia"
 
 # MUST CHANGE: Uncomment the appropriate serial device for your platform below.
 # For Raspberry Pi use /dev/ttyAMA0 by uncommenting the line below:
+/dev/ttyUSB0
 #/dev/ttyAMA0
 # For BeagleBone Black use /dev/ttyO4 by uncommenting the line below:
 #/dev/ttyO4
@@ -149,9 +149,21 @@ nocrtscts
 local
 ```
 
+connect to internet:
+
+```sh
+sudo pon fona
+```
+
+disconnect
+
+```sh
+sudo poff fona
+```
+
 #### Realtime clock
 
-Set the realtime clock see [Forum](https://forums.adafruit.com/viewtopic.php?f=19&t=58002&p=294235#p294235)
+Set the realtime clock see [Forum](https://forums.adafruit.com/viewtopic.php?f=19&t=58002&p=294235#p294235).
 
 > `AT+CLTS?`
 >You will get this if it is disabled:
@@ -175,6 +187,53 @@ Set the realtime clock see [Forum](https://forums.adafruit.com/viewtopic.php?f=1
 >After it registers AT+CCLK? will respond with the correct time, as in my case:
 >
 >`+CCLK: "14/08/08,02:25:43-16"`
+
+#### Send SMS
+
+Set in sms mode: `AT+CMGF=1`
+
+Send message
+
+```sh
+AT+CMGS="+4799999999"<ENTER>
+> your message<CTRL+Z>
+```
+
+Data sim phone number: `+47 580009700018`
+
+#### Commands log (02.02.2020)
+
+```sh
+AT+CCLK="02/02/20,23:19:00+01"
+
+
+AT+CMGS="+4794835300"
+
+AT+CMGR=ALL
+
+AT+CSCA="+47580009700018"
+
+
+
+ATD + +4794835300;
+
+AT+CMGF=0
+
+AT+CREG
+
+AT+CMGF=1
+
+AT+CHTTPSOPSE="google.com",443,2
+
+AT+CGDCONT=1,"IP","telia"
+
+AT+CGDCONT?
+```
+
+#### Important note
+
+>I 2019 startet utfasingen av 3G fylke for fylke. Utfasingen startet med 900MHz-båndet, mens 2100MHz fases ut i 2020. En hovedårsak til utfasingen er at 4G-nettet i 2019 var fullt utbygd og kunne overta de fleste funksjonene 3G-nettet hadde, samt at frekvensene til 3G etter en utfasing kan brukes til andre funksjoner. Utstyr uten 4G-mulighet virker etter utfasingen via 2G, slik at telefonfunksjonene virker, mens dataoverføring via mobilnettet ikke lenger er mulig. I følge Telia gikk 4G-hastighetene i Hedmark opp da 3G-nettet ble slukket.
+[ref. Wikipedia](https://no.wikipedia.org/wiki/3G#Utfasing)
 
 ### Articles
 

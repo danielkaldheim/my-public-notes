@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# https://github.com/thomfre/OSCP-Exam-Report-Template
+
 if [ -f 'md2PDF.md' ]; then
     rm md2PDF.md
 fi
