@@ -39,3 +39,10 @@ go mod vendor
 ## Articles
 
 - [Example of Golang CRUD using MySQL from scratch](https://www.golangprograms.com/example-of-golang-crud-using-mysql-from-scratch.html)
+- [Real-Time Maps with a Raspberry Pi, Golang, and HERE XYZ](https://developer.here.com/blog/real-time-maps-with-a-raspberry-pi-golang-and-here-xyz)
+- [Reverse Geocoding NEO 6M GPS Positions with Golang and a Serial UART Connection](https://developer.here.com/blog/reverse-geocoding-neo-6m-gps-positions-with-golang-and-a-serial-uart-connection)
+
+## Serial UART
+
+- [Go Serial](https://github.com/jacobsa/go-serial)
+- [Tarm Serial](https://github.com/tarm/serial)
