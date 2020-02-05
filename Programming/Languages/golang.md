@@ -34,7 +34,7 @@ go mod vendor
 
 ### Div
 
-- <https://github.com/avelino/awesome-go>
+- [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 
 ## Articles
 
