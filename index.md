@@ -2,6 +2,11 @@
 
 [Reading list](./Reading%20List.md)
 
+## Todo
+
+- [ ] Do this
+- [X] Done that
+
 ## Projects
 
 - [Projects](./Projects/index.md)
