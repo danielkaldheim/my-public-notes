@@ -1,4 +1,4 @@
-# Daniel's Notes
+# Daniel's Public Notes
 
 [Reading list](./Reading%20List.md)
 
@@ -27,9 +27,3 @@
 
 - [Markdown Cheatsheet](./Useful/Markdown%20Cheatsheet.md)
 - [Useful commands](./Useful/UsefulCommands.md)
-
-## Vehicles
-
-- [Vehicles](./Vehicles/index.md)
-- [BMW - BS82067](./Vehicles/Cars/BMW%20-%20BS82067.md)
-- [MV Agusta - FC7664](./Vehicles/Motorcycles/MV%20Agusta%20-%20FC7664.md)

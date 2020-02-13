@@ -13,7 +13,7 @@
 
 ## Unicode
 
-hex: "\xf0\x9f\x90\xb6"
+hex: "\\xf0\\x9f\\x90\\xb6"
 
 ## Artificial Intelligence
 

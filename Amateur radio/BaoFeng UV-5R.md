@@ -3,6 +3,7 @@
 ![Baofeng](./uv-5rLG.jpg)
 
 ## Features
+
 25KHz/12.5KHz Switchable (Wide/Narrow Band)
 
 FM Radio (65.0MHz-108.0MHz)
@@ -28,6 +29,7 @@ Transmitter time-out timer(TOT)
 Busy channel lock-out(BCLO)
 
 ## UV-5R SPECIFICATIONS
+
 Frequency range:
 
 [TX] 136 - 174MHz, 400 - 520MHz
