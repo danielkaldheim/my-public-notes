@@ -1,5 +1,14 @@
 # Crudus Sense
 
+![Sensor board 3D](./images/Sensor&#32;board&#32;3d.jpg)
+
+![Sensor board PCB](./images/Sensor&#32;board&#32;pcb.png)
+
+![Sensor board schematics](./images/Sensors&#32;board.png)
+
+\newpage
+\blandscape
+
 ## BLE device configuration specification
 
 | Name                     | Type                     | R/W | Key          | UUID                                 | Comment                                                   |
@@ -21,6 +30,9 @@
 | Calibration temperature  | String (comma separated) | R/W | cali-temp    | 51ecca5c-6b85-11e9-a923-1681be663d3e | For calibrate temperature                                 |
 | Calibration humidity     | String (comma separated) | R/W | cali-hum     | 51eccbb0-6b85-11e9-a923-1681be663d3e | For calibrate humidity                                    |
 | Soft reset               | boolean                  | W   | soft-reset   | 51eccd18-6b85-11e9-a923-1681be663d3e | For clearing preferences                                  |
+
+\elandscape
+\newpage
 
 ## MQTT publish Topics
 
