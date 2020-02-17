@@ -6,6 +6,10 @@
 
 ![Dev board pcb](./images/Dev&#32;board&#32;v1.png)
 
+## Oopsies
+
+Molex data and GND have switched place.
+
 ## Raspberry Pi pinout
 
 ![Pinout](./images/raspberry-pi-pinout.png)

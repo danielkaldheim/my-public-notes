@@ -190,6 +190,15 @@ AT+CGDCONT=1,"IP","telia"
 AT+CGDCONT?
 ```
 
+### Commands log (17.02.2020)
+
+```sh
+AT+CRFSIM ## Reinitialize simcard
+AT+CPIN=6552 ## Enter sim pin code
+
+
+```
+
 ### Important note
 
 >I 2019 startet utfasingen av 3G fylke for fylke. Utfasingen startet med 900MHz-båndet, mens 2100MHz fases ut i 2020. En hovedårsak til utfasingen er at 4G-nettet i 2019 var fullt utbygd og kunne overta de fleste funksjonene 3G-nettet hadde, samt at frekvensene til 3G etter en utfasing kan brukes til andre funksjoner. Utstyr uten 4G-mulighet virker etter utfasingen via 2G, slik at telefonfunksjonene virker, mens dataoverføring via mobilnettet ikke lenger er mulig. I følge Telia gikk 4G-hastighetene i Hedmark opp da 3G-nettet ble slukket.
