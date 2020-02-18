@@ -195,9 +195,12 @@ AT+CGDCONT?
 ```sh
 AT+CRFSIM ## Reinitialize simcard
 AT+CPIN=6552 ## Enter sim pin code
-
-
 ```
+
+### SMS PDU mode
+
+- [Javascript PDU Converter](http://rednaxela.net/pdu.php)
+- [SMS Text Mode and SMS PDU Mode](https://www.developershome.com/sms/operatingMode.asp)
 
 ### Important note
 
@@ -209,3 +212,7 @@ AT+CPIN=6552 ## Enter sim pin code
 - [Cellular & GPS Enabled Pi 3: Fona + Pi 3](https://www.digikey.com/en/maker/projects/cellular-gps-enabled-pi-3-fona-pi-3/d0cf660bfc144842a49bfbc5c1dc2ff0)
 - [FONA Tethering to Raspberry Pi or BeagleBone Black](https://learn.adafruit.com/fona-tethering-to-raspberry-pi-or-beaglebone-black/usage)
 - [Sending AT commands to SIM900 whilst pppd is active](https://stackoverflow.com/questions/28939656/sending-at-commands-to-sim900-whilst-pppd-is-active)
+
+## Other projects
+
+- [GSM AT Commands parser](https://github.com/MaJerle/GSM_AT_commands_parser/)

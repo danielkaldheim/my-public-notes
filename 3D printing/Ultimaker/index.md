@@ -1,5 +1,11 @@
 # Ultimaker
 
+## Filaments
+
+### ABS
+
+Shrink ratio: 100.1%
+
 ## Repairs
 
 ### Nozzle
