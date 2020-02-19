@@ -64,11 +64,73 @@ enable_uart=1
 init_uart_clock=16000000
 ```
 
-## Test code
+## Communications
 
 More information about communication [Protocol 1.0](http://emanual.robotis.com/docs/en/dxl/protocol1/#status-packet).
 
-### Simple Move
+Instruction Packet is the command data sent to the Device.
+
+| Header1 | Header2 | ID  | Length | Instruction | Param 1 | …   | Param N | Checksum |
+| ------- | ------- | --- | ------ | ----------- | ------- | --- | ------- | -------- |
+| 0xFF    | 0xFF    | ID  | Length | Instruction | Param 1 | …   | Param N | CHKSUM   |
+
+### Header
+
+The field indicates the start of the Packet.
+
+### Packet ID
+
+The field that indicates the ID of the Device that should receive the Instruction Packet and process it
+
+1. Range : 0 ~ 253 (0x00 ~ 0xFD), which is a total of 254 numbers that can be used.
+2. Broadcast ID : 254 (0xFE), which makes all connected devices execute the Instruction Packet.
+
+### Length
+
+The length of the Packet(Instruction, Parameter, Checksum fields). Length = number of Parameters + 2
+
+### Instruction
+
+The field that defines the type of instruction.
+
+| Value | Instructions  | Description                                                                                                                                               |
+| ----- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0x01  | Ping          | Instruction that checks whether the Packet has arrived to a device with the same ID as Packet ID                                                          |
+| 0x02  | Read          | Instruction to read data from the Device                                                                                                                  |
+| 0x03  | Write         | Instruction to write data on the Device                                                                                                                   |
+| 0x04  | Reg Write     | Instruction that registers the Instruction Packet to a standby status; Packet is later executed through the Action instruction                            |
+| 0x05  | Action        | Instruction that executes the Packet that was registered beforehand using Reg Write                                                                       |
+| 0x06  | Factory Reset | Instruction that resets the Control Table to its initial factory default settings                                                                         |
+| 0x08  | Reboot        | Instruction that reboots DYNAMIXEL(See applied products in the description)                                                                               |
+| 0x83  | Sync Write    | For multiple devices, Instruction to write data on the same Address with the same length at once                                                          |
+| 0x92  | Bulk Read     | For multiple devices, Instruction to write data on different Addresses with different lengths at once<br /> This command can only be used with MX series. |
+
+
+### Parameters
+
+Parameters are used when additional data is required for an instruction.
+
+### Instruction Checksum
+
+It is used to check if packet is damaged during communication. Instruction Checksum is calculated according to the following formula.
+
+Instruction Checksum = ```~( ID + Length + Instruction + Parameter1 + … Parameter N )```
+
+Where “~” is the Binary Ones Complement operator. When the calculation result of the parenthesis in the above formula is larger than 255 (0xFF), use only lower bytes.
+
+For example, when you want to use below Instruction Packet,
+
+```ID=1(0x01), Length=5(0x05), Instruction=3(0x03), Parameter1=12(0x0C), Parameter2=100(0x64), Parameter3=170(0xAA)```
+
+```sh
+Checksum = ~ ( ID + Length + Instruction + Parameter1 + … Parameter 3 ) = ~ [ 0x01 + 0x05 + 0x03 + 0x0C + 0x64 + 0xAA ] = ~ [ 0x123 ] # Only the lower byte 0x23 executes the Not operation. = 0xDC
+```
+
+Thus, Instruction Packet should be ```0xFF, 0xFF, 0x01, 0x05, 0x03, 0x0C, 0x64, 0xAA, 0xDC```.
+
+### Sample code
+
+#### Simple Move
 
 The values are hardcoded to move Dynamixel 1:
 
@@ -118,19 +180,20 @@ finally:
     GPIO.cleanup() # cleanup all GPIO
 ```
 
-### Read ID
+#### Read ID
 
 The ID is a unique value in the network to identify each DYNAMIXEL with an Instruction Packet. 0~252 (0xFC) values can be used as an ID, and 254(0xFE) is occupied as a broadcast ID. The Broadcast ID(254, 0xFE) can send an Instruction Packet to all connected DYNAMIXEL simultaneously.
 
-| hex | dec | command               | Comment                                        |
-| --- | --- | --------------------- | ---------------------------------------------- |
-| FF  | 255 |                       |                                                |
-| FF  | 255 |                       |                                                |
-| FE  | 254 | To all ID's           |                                                |
-| 05  | 5   | Return Delay Time (5) |                                                |
-| 03  | 3   | 6 μsec                | Status Packet for Return Delay Time(5).        |
-| 00  | 0   | Model Number (0)      | This address stores model number of DYNAMIXEL. |
-| A3  | 163 | CRC                   |                                                |
+| hex | dec | Command      | Comment                                        |
+| --- | --- | ------------ | ---------------------------------------------- |
+| FF  | 255 | Header       |                                                |
+| FF  | 255 | Header2      |                                                |
+| FE  | 254 | To all ID's  |                                                |
+| 04  | 4   | Length       |                                                |
+| 02  | 2   | 4 μsec       | Status Packet for Return Delay Time(5).        |
+| 00  | 0   | Model Number | This address stores model number of DYNAMIXEL. |
+| 03  | 3   | ID           | Dynamixel ID                                   |
+| F5  |     | CRC          | Checksum                                       |
 
 ```python
 #!/usr/bin/env python
@@ -147,7 +210,7 @@ port = serial.Serial("/dev/ttyAMA0", baudrate=1000000, timeout=3.0)
 try:
     print("Read ID")
     GPIO.output(16, GPIO.HIGH)
-    port.write(bytearray.fromhex("FF FF FE 05 03 00 A3"))
+    port.write(bytearray.fromhex("FF FF FE 04 02 00 03 F5"))
     time.sleep(0.1)
     GPIO.output(16, GPIO.LOW)
 
