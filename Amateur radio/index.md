@@ -4,6 +4,10 @@
 
 - [RTLSDR](http://www.rtlsdr.com/modifications/)
 
+## Kits
+
+- [QRP Pixie Kit with 7.023 crystal only](https://www.pixiekits.com/product/qrp-pixie-kit-7-023-crystal-shipped/)
+
 ## Articles
 
 - [Walkie Talkies](https://electronics.howstuffworks.com/walkie-talkies5.htm)
