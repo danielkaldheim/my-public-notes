@@ -1,5 +1,13 @@
 # Maximus
 
+## Todo
+
+| Tasks                                 | Timeline | Comment                    | Progress |
+| ------------------------------------- | -------- | -------------------------- | -------- |
+| Design middle body                    |          | Draw in Fusion 360         |          |
+| Get development board circuit to work |          | Full duplex to half duplex |          |
+| Set up ROS                            |          |                            |          |
+
 ## Body
 
 ### Frame v2 - current
@@ -15,7 +23,6 @@ Frame v1 is to unstable. The whole body warps as the frame is to thin and have o
 ![Frame v1 top](./images/IMG_2821.jpeg)
 
 ![Frame v1 feet](./images/IMG_2822.jpeg)
-
 
 ## Components
 
