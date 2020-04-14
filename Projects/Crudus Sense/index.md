@@ -48,10 +48,35 @@
 
 ## Extensions
 
-Sleep Tracking using an Arduino
-<https://duino4projects.com/sleep-tracking-using-an-arduino/>
+### CCS811
 
-Reset:
-<https://www.esp8266.com/viewtopic.php?t=9558&start=8>
+Alternativ chip: CCS811 (indoor air quality sensor)
 
-Chip: CCS811 (indoor air quality sensor)
+- [ADAFRUIT CCS811 AIR QUALITY SENSOR BREAKOUT - VOC AND ECO2](https://www.adafruit.com/product/3566)
+
+## Functionality
+
+### Sleeptracking
+
+- [Sleep Tracking using an Arduino](https://duino4projects.com/sleep-tracking-using-an-arduino/)
+
+### Softreset via button
+
+- [LONG PRESS RESET BUTTON?](https://www.esp8266.com/viewtopic.php?t=9558&start=8)
+
+### Send and recieve IR commands
+
+- [Adafruit: Sending IR Codes](https://learn.adafruit.com/using-an-infrared-library/sending-ir-codes)
+- [Github: IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)
+
+### External temperature sensor
+
+- [PlatformIO: DallasTemperature](https://platformio.org/lib/show/54/DallasTemperature/examples)
+
+## Bluetooth
+
+- [Vendor list](https://gitlab.com/wireshark/wireshark/raw/master/manuf)
+- [Company identifiers](https://www.bluetooth.com/specifications/assigned-numbers/company-identifiers/)
+- [ESP Bluetooth collector](https://github.com/tobozo/ESP32-BLECollector)
+- [ESP32 MP3 Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder)
+- [How to Calculate Distance from the RSSI value of the BLE Beacon](https://iotandelectronics.wordpress.com/2016/10/07/how-to-calculate-distance-from-the-rssi-value-of-the-ble-beacon/)

@@ -34,3 +34,22 @@ Driver:
 Driver:
 
 - [EDP Converter Board Driver kit HDMI/DVI/VGA Inputs for 1920X1080 LM215WF3-SDA1](https://www.ebay.com/itm/EDP-Converter-Board-Driver-kit-HDMI-DVI-VGA-Inputs-for-1920X1080-LM215WF3-SDA1/372235231813)
+
+
+## Raspberry pi
+
+`sudo nano /boot/config.txt`:
+
+```sh
+# Display orientation. Landscape = 0, Portrait = 1
+display_rotate=1
+```
+
+`nano ~/.config/lxsession/LXDE-pi/autostart`
+
+```sh
+@xset s off
+@xset -dpms
+@xest s noblank
+@chromium-browser --noerrdialogs --incognito --kiosk http://dakboard.com/app
+```
