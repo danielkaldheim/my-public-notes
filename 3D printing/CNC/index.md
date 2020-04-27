@@ -3,6 +3,11 @@
 Stepper motorer 4 x nema 23 - 24nm: $158.60 (med frakt)
 <https://www.omc-stepperonline.com/nema-23-bipolar-18deg-24nm-340ozin-18a-495v-57x57x104mm-4-wires-23hs41-1804s.html>
 
+## Software
+
+- [Linux CNC](http://linuxcnc.org/)
+- [OctoPi with grbl support](https://plugins.octoprint.org/plugins/octoprint-grbl-plugin/)
+
 ## Kit
 
 Workerbee 1010:

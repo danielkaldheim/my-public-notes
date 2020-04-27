@@ -6,6 +6,8 @@
 
 ## Topics
 
+- [Writing a Book with Pandoc, Make, and Vim](https://keleshev.com/my-book-writing-setup/)
+
 ### Collision engine
 
 - <https://gamedev.stackexchange.com/questions/26501/how-does-a-collision-engine-work>

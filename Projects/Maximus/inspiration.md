@@ -34,3 +34,15 @@ Articles:
 
 - <https://hackaday.com/2019/03/30/a-pet-robot-just-like-boston-dynamics-makes/>
 - <https://hackaday.io/project/164493-dizzy-wolf>
+
+## MJBOTS Quad
+
+The mjbots quad is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source licensed under the Apache 2.0 license. It is capable of dynamic motions like jumping and is relatively low cost.
+
+![MJBOTS Quad](./images/302691569844052544.jpg)
+
+- [Hackaday.io: mjbots quad](https://hackaday.io/project/167845-mjbots-quad)
+
+## Hexapod
+
+- [Youtube.com: Designing and building a Hexapod!](https://www.youtube.com/watch?v=VwTd5cWJx2M)
