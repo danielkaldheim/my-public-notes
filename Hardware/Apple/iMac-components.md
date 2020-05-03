@@ -7,7 +7,11 @@ The goal of this harvest is to see if I can reuse these components in other proj
 
 **Purpose**: Reuse this webcam as a USB webcam.
 
-**Chip**: VC0331 / VC0338BSHB
+### Chips
+
+#### VC0338BSHB
+
+From [vimicro.com](http://www.vimicro.com/english/product/d_vc0338.htm):
 
 *VC0338* is a dedicated PC Camera controller chip targeting for high quality standard-alone PC Camera or Notebook PC Embedded Camera. With its integrated high quality ISP and MJPEG compression engine, VC0338 can video stream HD (720P), SXGA at 30fps, and 2 Mega at 15fps.
 
@@ -15,28 +19,40 @@ This chip utilizes the most up-to-date technologies and offering a vast variety 
 
 Being Microsoft WHQL compliant, as well as supporting USB Video Class 1.0 standard and USB Audio Class 1.0 standard, this state-of-the-art design is a versatile solution that makes the creation of high speed, high resolution, high performance, low power Web cameras into a reality.
 
-- [VC0331 Product Brief PDF](./files/VC0331_200_1.0_EN.pdf)
-- [VC0338 Product information](http://www.vimicro.com/english/product/d_vc0338.htm#)
+
+#### SST39LF010
+
+From [microchip.com](https://www.microchip.com/wwwproducts/en/SST39LF010):
+
+The SST39LF010 is a 128K x8CMOS Multi-Purpose Flash (MPF) manufactured with SST proprietary, high performance CMOS SuperFlash technology. The split-gate cell design and thick-oxide tunneling injector attain better reliability and manufacturability compared with alternate approaches. The SST39LF010 device writes (Program or Erase) with a 3.0-3.6V power supply. The device conforms to JEDEC standard pinouts for x8 memories
+
+#### ti14a1hx1
 
 ### Pin-outs
 
-|Pin|Color|Use|
-|---|---|---|
-|1|Black|GND|
-|2|Red| |
-|3|Grey / Black| |
-|4|Brown| |
-|5|White| |
-|6|Purple| |
-|7|Light grey| |
+|Pin|Color|Use|USB Cable|
+|---|---|---|---|
+|1|Black|Common GND|Shield|
+|2|Red|||
+|3|Grey / Black| ||
+|4|Brown|USB GND|Black|
+|5|White|USB D+|Green|
+|6|Purple|USB D-|White|
+|7|Blue|USB VCC|Red|
 
 ### Images
 
 ![Front without plastic cover](./images/IMG_3207.jpeg)
 ![Back without plastic cover](./images/IMG_3208.jpeg)
 ![VC0338BSHB](./images/IMG_3209.jpeg)
-![SSTL89LFO10](./images/IMG_3210.jpeg)
+![SST39LF010](./images/IMG_3210.jpeg)
 ![Cables](./images/IMG_3211.jpeg)
+
+### Links
+
+- [PDF: VC0331 Product Brief](./files/VC0331_200_1.0_EN.pdf)
+- [vimicro.com: VC0338 Product information](http://www.vimicro.com/english/product/d_vc0338.htm)
+- [microchip.com: SST39LF010 - 1Mb 3-3.6V Parallel Flash](https://www.microchip.com/wwwproducts/en/SST39LF010)
 
 ## Bluetooth
 

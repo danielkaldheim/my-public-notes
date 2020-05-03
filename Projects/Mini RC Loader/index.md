@@ -13,10 +13,10 @@ Awesome 3d printed RC Skid loader found [here](https://blog.naver.com/3dfuns/221
 - MCU: FNM Coding Board (Communication Method: Wifi)
 - Motor Driver: in Board
 - Motor: N10 reduction gear motor
-- Servo: SG90 Servo / Mini Servo
-- Battery: 1Cell (3.7v)
+- Servo: SG90 Servo / Hitec HS-40 Super Feather servo
+- Battery: 1Cell (3.7v) CR123A
 - Front Lihgt: 3pi (White) LED + 220ohm resistor (Option)
-- Warning Light: 3pi (Red) LED + 220 ohm resistor (Option)
+- Warning Light: 3pi (Red) LED + 220ohm resistor (Option)
 - Controller: RoboRemo App
 
 ### MCU
