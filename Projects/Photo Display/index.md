@@ -17,6 +17,24 @@
 Javascript library for processing
 <https://p5js.org/get-started/>
 
+### Vibrant.js
+
+Get colors from image
+<https://jariz.github.io/vibrant.js/>
+
+### Image Transition by Szenia Zadvornykh
+
+https://codepen.io/last-first/pen/QNoWmO
+
+### Pixel sort
+
+Pixel sorting is an interesting, glitchy effect which selectively orders the pixels in the rows/columns of an image.
+
+![Pixelsort](https://github.com/satyarth/pixelsort/raw/master/examples/file.png)
+
+- [github.com: Pixelsort](https://github.com/satyarth/pixelsort)
+- [satyarth.me: pixel sorting](http://satyarth.me/articles/pixel-sorting/)
+
 ## Displays
 
 ### LG LM270WQ1-SDE3 - 27"
