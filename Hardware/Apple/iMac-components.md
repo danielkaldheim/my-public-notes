@@ -7,6 +7,8 @@ The goal of this harvest is to see if I can reuse these components in other proj
 
 **Purpose**: Reuse this webcam as a USB webcam.
 
+I managed to figure out which cables was USB signals and soldered on the wires to a USB type A. The camera works.
+
 ### Chips
 
 #### VC0338BSHB
@@ -47,6 +49,12 @@ The SST39LF010 is a 128K x8CMOS Multi-Purpose Flash (MPF) manufactured with SST 
 ![VC0338BSHB](./images/IMG_3209.jpeg)
 ![SST39LF010](./images/IMG_3210.jpeg)
 ![Cables](./images/IMG_3211.jpeg)
+
+![Debugging wires](./images/IMG_3256.jpeg)
+![Debugging wires 2](./images/IMG_3257.jpeg)
+![Solder usb connections](./images/IMG_3258.jpeg)
+![Got the camera working](./images/IMG_3259.jpeg)
+![Got the camera working - green light](./images/IMG_3260.jpeg)
 
 ### Links
 
