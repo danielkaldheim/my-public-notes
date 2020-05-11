@@ -9,6 +9,8 @@ The goal of this harvest is to see if I can reuse these components in other proj
 
 I managed to figure out which cables was USB signals and soldered on the wires to a USB type A. The camera works.
 
+Next step is to figure out what's the other cables (red and grey) functions.
+
 ### Chips
 
 #### VC0338BSHB
