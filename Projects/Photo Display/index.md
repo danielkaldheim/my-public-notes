@@ -35,6 +35,13 @@ Pixel sorting is an interesting, glitchy effect which selectively orders the pix
 - [github.com: Pixelsort](https://github.com/satyarth/pixelsort)
 - [satyarth.me: pixel sorting](http://satyarth.me/articles/pixel-sorting/)
 
+### Echoprint
+
+Echoprint is an open source music fingerprint and resolving framework powered by the The Echo Nest. The code generator (library to convert PCM samples from a microphone or file into Echoprint codes) is open source (MIT licensed) and free for any use.
+
+- [Echoprint codegen](https://github.com/spotify/echoprint-codegen)
+- [Echoprint server](https://github.com/spotify/echoprint-server)
+
 ## Displays
 
 ### LG LM270WQ1-SDE3 - 27"
