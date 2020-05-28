@@ -3,11 +3,15 @@
 Components that are harvested from iMac 27" 2011.
 The goal of this harvest is to see if I can reuse these components in other projects.
 
+The webcamera- and bluetooth-pcb came with the same wiring bundle.
+
 ## Webcam
 
 **Purpose**: Reuse this webcam as a USB webcam.
 
-I managed to figure out which cables was USB signals and soldered on the wires to a USB type A. The camera works.
+I managed to figure out which cables was USB signals and soldered on the wires to a USB type-A. The camera works.
+
+Next step is to figure out what's the other cables (red and grey) functions.
 
 Next step is to figure out what's the other cables (red and grey) functions.
 
@@ -23,14 +27,15 @@ This chip utilizes the most up-to-date technologies and offering a vast variety 
 
 Being Microsoft WHQL compliant, as well as supporting USB Video Class 1.0 standard and USB Audio Class 1.0 standard, this state-of-the-art design is a versatile solution that makes the creation of high speed, high resolution, high performance, low power Web cameras into a reality.
 
-
 #### SST39LF010
 
 From [microchip.com](https://www.microchip.com/wwwproducts/en/SST39LF010):
 
 The SST39LF010 is a 128K x8CMOS Multi-Purpose Flash (MPF) manufactured with SST proprietary, high performance CMOS SuperFlash technology. The split-gate cell design and thick-oxide tunneling injector attain better reliability and manufacturability compared with alternate approaches. The SST39LF010 device writes (Program or Erase) with a 3.0-3.6V power supply. The device conforms to JEDEC standard pinouts for x8 memories
 
-#### ti14a1hx1
+#### TI14A1HX1
+
+Unsure what this chip is.
 
 ### Pin-outs
 
