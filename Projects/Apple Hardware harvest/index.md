@@ -1,4 +1,4 @@
-# iMac components
+# Harvest iMac components
 
 Components that are harvested from iMac 27" 2011.
 The goal of this harvest is to see if I can reuse these components in other projects.
