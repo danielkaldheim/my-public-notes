@@ -1,3 +1,3 @@
 # Lamp to Viljar
 
-![Train](./images/Image&#32;20191103&#32;175354.png)
+![Train](./images/Image-20191103-175354.png)

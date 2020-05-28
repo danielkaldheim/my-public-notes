@@ -16,9 +16,9 @@ For all three without cables and connections it's about 258 grams.
 
 If each individual cell is rated for 3.7v @ 3000mAh and 20C discharge rate, the configuration above would result in a pack rated for 11.1v @ 3000mAh with a max discharge rate of 60 amps.
 
-![Lipo 3s Balanced Wiring prismatic](./images/3s&#32;balanced&#32;block&#32;diagram.png)
+![Lipo 3s Balanced Wiring prismatic](./images/3s-balanced-block-diagram.png)
 
-![Lipo 3s Balanced Wiring cells](./images/3s&#32;balanced&#32;block&#32;diagram&#32;pack.png)
+![Lipo 3s Balanced Wiring cells](./images/3s-balanced-block-diagram-pack.png)
 
 ## Tools
 

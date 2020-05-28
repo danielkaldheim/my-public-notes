@@ -1,10 +1,10 @@
 # Crudus Sense
 
-![Sensor board 3D](./images/Sensor&#32;board&#32;3d.jpg)
+![Sensor board 3D](./images/Sensor-board-3d.jpg)
 
-![Sensor board PCB](./images/Sensor&#32;board&#32;pcb.png)
+![Sensor board PCB](./images/Sensor-board-pcb.png)
 
-![Sensor board schematics](./images/Sensors&#32;board.png)
+![Sensor board schematics](./images/Sensors-board.png)
 
 \newpage
 \blandscape

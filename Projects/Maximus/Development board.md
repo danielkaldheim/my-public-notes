@@ -1,10 +1,10 @@
 # Development board
 
-![Schematics](./images/Maximus&#32;servo&#32;controller.png)
+![Schematics](./images/Maximus-servo-controller.png)
 
-![Dev board 3d](./images/Dev&#32;board&#32;3d.png)
+![Dev board 3d](./images/Dev-board-3d.png)
 
-![Dev board pcb](./images/Dev&#32;board&#32;v1.png)
+![Dev board pcb](./images/Dev-board-v1.png)
 
 ## Whoopsies
 

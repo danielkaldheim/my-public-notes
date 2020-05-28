@@ -42,7 +42,7 @@
 
 Recommended GPS antenna
 
-![GPS Antenna](./images/gps&#32;antenna.png)
+![GPS Antenna](./images/gps-antenna.png)
 
 ### Links
 
