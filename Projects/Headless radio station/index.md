@@ -25,10 +25,3 @@ tasks include:
 "Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more"
 <https://auphonic.com/>
 
-Last.fm
-
-| Application name | Playlist generator               |
-| ---------------- | -------------------------------- |
-| API key          | cbff1f791890e77644038bf671715072 |
-| Shared secret    | 67e337c3e0a40e21a238a3a50b9a0743 |
-| Registered to    | rufuz                            |
