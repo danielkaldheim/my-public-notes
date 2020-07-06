@@ -11,3 +11,9 @@
 ## Videos
 
 - [Bjarne Stroustrup – The Essence of C++ (2014)](https://www.youtube.com/watch?v=86xWVb4XIyE)
+
+## GUI frameworks
+
+![Elements C++ GUI library](./images/photon_sampler.jpg)
+
+- [Elements C++ GUI library](http://cycfi.github.io/elements/)

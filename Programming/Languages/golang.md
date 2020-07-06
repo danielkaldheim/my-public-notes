@@ -41,6 +41,8 @@ go mod vendor
 - [Example of Golang CRUD using MySQL from scratch](https://www.golangprograms.com/example-of-golang-crud-using-mysql-from-scratch.html)
 - [Real-Time Maps with a Raspberry Pi, Golang, and HERE XYZ](https://developer.here.com/blog/real-time-maps-with-a-raspberry-pi-golang-and-here-xyz)
 - [Reverse Geocoding NEO 6M GPS Positions with Golang and a Serial UART Connection](https://developer.here.com/blog/reverse-geocoding-neo-6m-gps-positions-with-golang-and-a-serial-uart-connection)
+- [How to Use Websockets in Golang: Best Tools and Step-by-Step Guide](https://yalantis.com/blog/how-to-build-websockets-in-go/)
+- [Best Practices for Speeding Up JSON Encoding and Decoding in Go](https://yalantis.com/blog/speed-up-json-encoding-decoding/)
 
 ## Serial UART
 
