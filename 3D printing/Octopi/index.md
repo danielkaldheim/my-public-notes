@@ -80,3 +80,6 @@ G90 ;absolute positioning
 ;should be fixed, so this comment wouldn't be necessary any more. Now we have
 ;to pad this text to make precisely 512 bytes.
 ```
+
+
+https://github.com/saper-2/rpi-5inch-hdmi-touchscreen-driver

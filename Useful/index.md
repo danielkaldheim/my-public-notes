@@ -1,5 +1,9 @@
 # Useful stuff
 
+## Git
+
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+
 ## Github CLI
 
 Github command line tool [CLI Github](https://cli.github.com/)
