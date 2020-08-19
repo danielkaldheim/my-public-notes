@@ -33,3 +33,10 @@ Pin 5 -> A (Blue -> Yellow), Pin 4 -> B (Half Blue -> Green)
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
+
+## Issues
+
+Unable to connect to Modbus.
+
+Airiana dump of RAM/err and RAM/out:
+[Gist Dump](https://gist.github.com/danielkaldheim/cca07903f6734031c1fda6edd6703354)
