@@ -15,7 +15,7 @@ Only able to get transmitted data.
 ![FT232 USB cable](./images/IMG_3645.jpeg)
 ![SparkFun Transceiver Breakout - RS-485](./images/IMG_3646.jpeg)
 ![RJ45](./images/IMG_3647.jpeg)
-Pin 4 -> B (Blue -> Yellow), Pin 5 -> A (Half Blue -> Green)
+Pin 4 -> B (Blue -> Yellow), Pin 5 -> A (White/Blue -> Green)
 
 ![Pinout RJ45](./images/RJ-45-Pinout-T-568B-pin-diagram.jpg)
 
@@ -47,7 +47,7 @@ python get-pip.py
 
 ## Issues
 
-Unable to connect to Modbus.
+With the two hardware setups I have, I currently do not get anything back from the device. I have opened an [issue](https://github.com/BeamCtrl/Airiana/issues/10) about Airiana repo, hoping to get some eye opening to get this fixed.
 
 Airiana dump of RAM/err and RAM/out:
 [Gist Dump](https://gist.github.com/danielkaldheim/cca07903f6734031c1fda6edd6703354)
