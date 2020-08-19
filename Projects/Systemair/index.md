@@ -15,13 +15,14 @@ Only able to get transmitted data.
 ![FT232 USB cable](./images/IMG_3645.jpeg)
 ![SparkFun Transceiver Breakout - RS-485](./images/IMG_3646.jpeg)
 ![RJ45](./images/IMG_3647.jpeg)
-Pin 4 -> B (Blue -> Yellow), Pin 5 -> A (Half Blue -> Green) (Note. I know they are switched around on this picture)
+Pin 4 -> B (Blue -> Yellow), Pin 5 -> A (Half Blue -> Green)
 
 ![Pinout RJ45](./images/RJ-45-Pinout-T-568B-pin-diagram.jpg)
 
 ![Wiring systemair](./images/wiring-systemair.png)
 
 ![Wiring RS-485](./images/IMG_3648.jpeg)
+ (Note. I know A/B is switched around on this picture)
 
 ## Hardware
 
