@@ -13,7 +13,7 @@ Model: Systemair  VR 400 DCV/B R
 ![FT232 USB cable](./images/IMG_3645.jpeg)
 ![SparkFun Transceiver Breakout - RS-485](./images/IMG_3646.jpeg)
 ![RJ45](./images/IMG_3647.jpeg)
-Pin 5 -> A (Blue -> Yellow), Pin 4 -> B (Half Blue -> Green)
+Pin 5 -> A (Half Blue -> Green), Pin 4 -> B (Blue -> Yellow) (Ps. I know they are switched around on this picture)
 
 ![Wiring RS-485](./images/IMG_3648.jpeg)
 
