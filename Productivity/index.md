@@ -1,5 +1,12 @@
 # Productivity
 
+## Diagrams
+
+### Diagrams as code
+
+- [Infrastructure Diagrams as Code Is Possible?](https://medium.com/swlh/infrastructure-diagrams-as-code-is-it-possible-b6bbae487f21)
+- [Diagrams Examples](https://diagrams.mingrammer.com/docs/getting-started/examples)
+
 ## Articles
 
 - [Remote software developer productivity](https://zephony.com/remote-software-developer-productivity)

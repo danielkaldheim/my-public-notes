@@ -4,7 +4,7 @@
 
 ![Sensor board PCB](./images/Sensor-board-pcb.png)
 
-![Sensor board schematics](./images/Sensors-board.png)
+![Sensor board schematics v2](./images/Schematic.png)
 
 \newpage
 \blandscape
