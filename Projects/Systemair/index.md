@@ -17,6 +17,8 @@ Pin 4 -> B (Blue -> Yellow), Pin 5 -> A (Half Blue -> Green) (Note. I know they 
 
 ![Pinout RJ45](./images/RJ-45-Pinout-T-568B-pin-diagram.jpg)
 
+![Wiring systemair](./images/wiring-systemair.png)
+
 ![Wiring RS-485](./images/IMG_3648.jpeg)
 
 ## Hardware
