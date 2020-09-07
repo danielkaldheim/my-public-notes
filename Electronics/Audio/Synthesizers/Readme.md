@@ -1,3 +1,5 @@
+[Parent](../Readme.md)
+
 # Synthesizers
 
 ## Atari Punk Console

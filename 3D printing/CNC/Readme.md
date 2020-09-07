@@ -1,3 +1,5 @@
+[Parent](../Readme.md)
+
 # CNC
 
 Stepper motorer 4 x nema 23 - 24nm: $158.60 (med frakt)
@@ -10,8 +12,7 @@ Stepper motorer 4 x nema 23 - 24nm: $158.60 (med frakt)
 
 ## Kit
 
-Workerbee 1010:
-<https://openbuildspartstore.com/openbuilds-workbee-1010-40-x-40/>
+[Workerbee 1010](https://openbuildspartstore.com/openbuilds-workbee-1010-40-x-40/)
 
 Untatt nema motorer og router: $1801.17
 
@@ -23,6 +24,6 @@ Untatt nema motorer og router: $1801.17
 
 ### Delrin
 
-<https://en.wikipedia.org/wiki/Polyoxymethylene>
+[Polyoxymethylene](https://en.wikipedia.org/wiki/Polyoxymethylene)
 
 ![Delrin block](./images/delrin.jpg)

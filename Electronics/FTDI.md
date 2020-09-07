@@ -1,3 +1,5 @@
+[Parent](./Readme.md)
+
 # FTDI
 
 ## FT232

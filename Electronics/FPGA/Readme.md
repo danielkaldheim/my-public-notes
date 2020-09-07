@@ -1,3 +1,5 @@
+[Parent](../Readme.md)
+
 # FPGA
 
 ## Training boards / development boards
