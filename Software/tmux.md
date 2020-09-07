@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # tmux shortcuts & cheatsheet
 
 start new:

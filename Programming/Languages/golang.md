@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # Golang
 
 ## Tips and tricks

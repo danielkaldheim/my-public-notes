@@ -1,6 +1,8 @@
+[< Parent](../Readme.md)
+
 # UX - UI
 
-- [Colors](colors.md)
+- [Colors](./colors.md)
 
 ## Methods
 

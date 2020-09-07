@@ -1,3 +1,5 @@
+[< Parent](../Readme.md)
+
 # Crudus Markdown Notes
 
 En markdown applikasjon som kan synkronisere med git.

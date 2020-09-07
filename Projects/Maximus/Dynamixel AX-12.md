@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # Dynamixel AX-12A
 
 DYNAMIXEL is a robot exclusive smart actuator with fully integrated DC Motor + Reduction Gearhead + Controller + Driver + Network in one DC servo module.

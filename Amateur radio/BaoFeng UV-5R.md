@@ -1,4 +1,4 @@
-[Parent](./Readme.md)
+[< Parent](./Readme.md)
 
 # BaoFeng UV-5R
 

@@ -1,6 +1,9 @@
-[Parent](../Readme.md)
+[< Parent](../Readme.md)
 
 # Espressif
+
+- [ESP32](./ESP32/Readme.md)
+- [ESP8266](./ESP8266/Readme.md)
 
 ## ESP Voice stream
 

@@ -1,4 +1,11 @@
+[< Parent](./Readme.md)
+
 # Useful stuff
+
+- [Open api's](./Api.md)
+- [MacOS](./MacOS.md)
+- [Markdown cheatsheet](./Markdown%20Cheatsheet.md)
+- [Useful commands](./UsefulCommands.md)
 
 ## Git
 

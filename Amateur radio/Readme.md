@@ -1,4 +1,4 @@
-[Parent](../Readme.md)
+[< Parent](../Readme.md)
 
 # Amateur radio
 
@@ -20,3 +20,7 @@
 
 - [Ham radio Frequency Chart](https://qrznow.com/ham-radio-frequency-chart/)
 - [Norske Frekvenser](http://www.smartprodukter.com/radio-frekvenser.html)
+
+## Products
+
+- [BaoFeng UV-5R](./BaoFeng%20UV-5R.md)

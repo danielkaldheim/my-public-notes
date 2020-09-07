@@ -1,4 +1,4 @@
-[Parent](../Readme.md)
+[< Parent](../Readme.md)
 
 # CNC
 

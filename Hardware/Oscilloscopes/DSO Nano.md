@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # DSO Nano v3
 
 ![DSO nano v3](./images/httpsstatics3.seeedstudio.comseeedimg2016-06wr1yljqhkhghifrafxbdzo3a.jpg)

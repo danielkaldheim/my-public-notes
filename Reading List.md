@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # Reading List
 
 - Elixir phoenix absinthe graphql react apollo <https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive/>

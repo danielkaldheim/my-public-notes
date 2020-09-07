@@ -1,4 +1,4 @@
-[Parent](./Readme.md)
+[< Parent](./Readme.md)
 
 # Adafruit Fona 3g cellular breakout
 

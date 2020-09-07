@@ -1,3 +1,5 @@
+[< Parent](../Readme.md)
+
 # Photo display
 
 ## Dashboard

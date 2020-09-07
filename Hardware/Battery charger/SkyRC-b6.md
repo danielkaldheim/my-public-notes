@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # SkyRC B6 nano
 
 Charger and discharger

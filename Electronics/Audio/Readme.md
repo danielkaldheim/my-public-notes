@@ -1,6 +1,9 @@
-[Parent](../Readme.md)
+[< Parent](../Readme.md)
 
 # Audio
+
+- [Microphone arrays](./Microphone%20Array.md)
+- [Synthesizers](./Synthesizers/Readme.md)
 
 ## Articles
 

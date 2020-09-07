@@ -1,3 +1,5 @@
+[< Parent](./Readme.md)
+
 # Hardware
 
 ## Jetson Nano

@@ -1,4 +1,8 @@
+[< Parent](../Readme.md)
+
 # Math
+
+- [Chaos](./chaos.md)
 
 ## Linear Regression
 
