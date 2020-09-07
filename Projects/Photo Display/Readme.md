@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-![Dashboard weather](./DFAA9D39-DEF1-4422-ACBE-6FE782548061.png)
+![Dashboard weather](./images/DFAA9D39-DEF1-4422-ACBE-6FE782548061.png)
 
 <https://www.smashingmagazine.com/2019/02/interactive-weather-dashboard-api-vue-js/>
 

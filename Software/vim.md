@@ -134,6 +134,8 @@
 
 `.` - repeat last command
 
+`gg=G` - Autoformat
+
 ## Cut and paste
 
 `yy` - yank (copy) a line
