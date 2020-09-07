@@ -3,7 +3,7 @@
 # Hardware
 
 - [Battery chargers](./Battery%20charger/Readme.md)
-- [Nedis Doorbell](./Nedis%20Doorbell/index.md)
+- [Nedis Doorbell](./Nedis%20Doorbell/Readme.md)
 - [Oculus Rift](./Oculus%20Rift/Readme.md)
 - [Oscilloscopes](./Oscilloscopes/Readme.md)
 - [SDR's](./SDR/Readme.md)

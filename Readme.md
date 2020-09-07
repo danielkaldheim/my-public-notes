@@ -41,5 +41,4 @@
 ## Other
 
 - [Reading list](./Reading%20List.md)
-- [Shopping list](./Shopping%20lists/Readme.md)
 - [Amateur radio](./Amateur%20radio/Readme.md)
