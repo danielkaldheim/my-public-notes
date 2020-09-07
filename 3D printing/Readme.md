@@ -1,7 +1,7 @@
 # 3D Printing
 
-- [Ultimaker](./Ultimaker/index.md)
-- [Snapmaker](./Snapmaker/index.md)
+- [Ultimaker](./Ultimaker/Readme.md)
+- [Snapmaker](./Snapmaker/Readme.md)
 
 ## Print a brick
 

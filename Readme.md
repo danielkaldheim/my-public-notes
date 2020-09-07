@@ -4,19 +4,19 @@
 
 ## Projects
 
-- [Projects](./Projects/index.md)
-- [Crudus MD Notes](./Projects/Crudus&#32;MD&#32;Notes/index.md)
-- [Crudus Sense](./Projects/Crudus%20Sense/index.md)
-- [Crudus Photos](./Projects/Crudus%20Photos/index.md)
-- [Maximus](./Projects/Maximus/index.md)
+- [Projects](./Projects/Readme.md)
+- [Crudus MD Notes](./Projects/Crudus&#32;MD&#32;Notes/Readme.md)
+- [Crudus Sense](./Projects/Crudus%20Sense/Readme.md)
+- [Crudus Photos](./Projects/Crudus%20Photos/Readme.md)
+- [Maximus](./Projects/Maximus/Readme.md)
 
 ## 3D Printing
 
-- [3D printing](./3D%20printing/index.md)
+- [3D printing](./3D%20printing/Readme.md)
 
 ## Electronics
 
-- [Electronics](./Electronics/index.md)
+- [Electronics](./Electronics/Readme.md)
 
 ## Useful stuff
 
