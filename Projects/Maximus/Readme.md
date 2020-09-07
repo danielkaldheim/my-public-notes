@@ -28,12 +28,18 @@ Frame v1 is to unstable. The whole body warps as the frame is to thin and have o
 
 ## Components
 
+- [Batteries](./Battery.md)
+- [Development board](./Development%20board.md)
+- [Configure BNO055](./BNO055.md)
+- [Dynamixel AX-12](./Dynamixel%20AX-12.md)
+- [GPS](./GPS.md)
+- [Other hardware](./Hardware.md)
 - [Stereo Pi](https://www.antratek.com/stereopi-starter-kit)
-- [Configure BNO055](BNO055.md)
 
 ## Robotics
 
-- [Robotics](robotics.md)
+- [Robotics](./robotics.md)
+- [ROS](./ROS.md)
 
 ## Articles
 
@@ -41,7 +47,7 @@ Frame v1 is to unstable. The whole body warps as the frame is to thin and have o
 
 ## Artificial Intelligence
 
-- [AI Notes](ai.md)
+- [AI Notes](./ai.md)
 
 ## Books
 
