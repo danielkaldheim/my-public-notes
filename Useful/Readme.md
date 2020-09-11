@@ -10,6 +10,7 @@
 ## Git
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
 ## Github CLI
 

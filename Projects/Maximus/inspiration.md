@@ -48,3 +48,8 @@ The mjbots quad is a small dynamic quadruped, like the MIT mini-Cheetah, but ful
 ## Hexapod
 
 - [Youtube.com: Designing and building a Hexapod!](https://www.youtube.com/watch?v=VwTd5cWJx2M)
+
+
+## Others
+
+- [Robot Cat](https://www.instructables.com/id/Robot-Cat)
