@@ -12,7 +12,7 @@ DyRET is a four legged (quadruped) robot designed to be a robust and versatile p
 
 ![DyRET](https://robotikk.net/media/images/dyret_reconfig.gif)
 
-Links:
+### Links
 
 - [DyRET Documentation](https://github.com/dyret-robot/dyret_documentation)
 
@@ -22,7 +22,7 @@ A programmable and highly maneuverable robotic cat for STEM education and AI-enh
 
 ![Open Cat](./images/676275B8-D7D0-4BEC-8536-6CEFDA9413A3.jpg)
 
-Article:
+### Article
 
 <https://www.hackster.io/petoi/opencat-845129>
 
@@ -32,7 +32,7 @@ A pet robot, just like Boston Dynamics makes
 
 ![Pet dog](./images/ADF61F43-BECD-45F1-9982-80076E21C033.jpg)
 
-Articles:
+### Articles
 
 - <https://hackaday.com/2019/03/30/a-pet-robot-just-like-boston-dynamics-makes/>
 - <https://hackaday.io/project/164493-dizzy-wolf>
@@ -48,7 +48,6 @@ The mjbots quad is a small dynamic quadruped, like the MIT mini-Cheetah, but ful
 ## Hexapod
 
 - [Youtube.com: Designing and building a Hexapod!](https://www.youtube.com/watch?v=VwTd5cWJx2M)
-
 
 ## Others
 
