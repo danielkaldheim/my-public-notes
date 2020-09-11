@@ -4,9 +4,9 @@
 
 ## 3D Printing
 
-- [Ultimaker](./Ultimaker/Readme.md)
-- [Snapmaker](./Snapmaker/Readme.md)
 - [Octopi](./Octopi/Readme.md)
+- [Snapmaker](./Snapmaker/Readme.md)
+- [Ultimaker](./Ultimaker/Readme.md)
 
 ### Print a brick
 

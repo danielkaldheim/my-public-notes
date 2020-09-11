@@ -6,5 +6,5 @@
 
 ## Methods
 
-- <https://material.io/design/>
-- <http://www.designkit.org/methods>
+- [Design Kit Methods](http://www.designkit.org/methods)
+- [Material Design](https://material.io/design/)

@@ -12,11 +12,11 @@ Notes about electronics
 
 ## Components
 
-- [LED](./led.md)
-- [MAX 3107](./Components/MAX3107.md)
+- [ESP32 / ESP8266 notes](./ESP/Readme.md)
 - [FTDI cable](./FTDI.md)
 - [GSM Notes](./GSM/Readme.md)
-- [ESP32 / ESP8266 notes](./ESP/Readme.md)
+- [LED](./led.md)
+- [MAX 3107](./Components/MAX3107.md)
 
 ## RF
 

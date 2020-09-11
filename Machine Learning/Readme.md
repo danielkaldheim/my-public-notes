@@ -6,9 +6,9 @@
 
 ## Articles
 
+- [A lightning-fast introduction to deep learning and tensorflow 2.0](https://builtin.com/machine-learning/introduction-deep-learning-tensorflow-20)
 - [Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
 - [Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI)
-- [A lightning-fast introduction to deep learning and tensorflow 2.0](https://builtin.com/machine-learning/introduction-deep-learning-tensorflow-20)
 
 ## Inspirational projects
 
