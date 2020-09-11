@@ -45,7 +45,6 @@
 - [RPI Security Camera](./RPI%20security%20camera/Readme.md)
 - [Systemair](./Systemair/Readme.md)
 
-
 ## Inspiration aka others awesome projects
 
 - [Rotary Cellphone](http://justine-haupt.com/rotarycellphone/)
