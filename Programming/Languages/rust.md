@@ -2,21 +2,22 @@
 
 # Rust
 
-## Links
+## Packages / Framework
 
 ### Web
 
-- <https://rocket.rs/>
+- [Rocket - web framework](https://rocket.rs/)
 
 ### GUI
 
-- <https://github.com/PistonDevelopers/conrod>
-- <http://relm.ml/relm-intro>
+- [Conrod - 2D GUI Library](https://github.com/PistonDevelopers/conrod)
 
 ### ORM
 
-- <http://diesel.rs/guides/getting-started/>
+- [Diesel - ORM](http://diesel.rs/guides/getting-started/)
+
+## Articles
 
 ### ESP32
 
-- <https://mabez.dev/blog/posts/esp32-rust/>
+- [Rust on the ESP32](https://mabez.dev/blog/posts/esp32-rust/)

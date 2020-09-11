@@ -2,4 +2,6 @@
 
 # Sapphire
 
-Open source alternative to firebase <https://sapphire-db.com/start/main>
+Open source alternative to firebase
+
+- [Sapphire DB](https://sapphire-db.com/start/main)

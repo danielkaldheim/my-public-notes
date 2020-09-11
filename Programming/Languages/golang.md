@@ -19,22 +19,22 @@ go mod vendor
 
 ### ORM
 
-- <http://gorm.io/>
+- [GORM](http://gorm.io/)
 
 ### GUI
 
-- <https://hackernoon.com/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0>
-- <https://github.com/andlabs/ui>
-- <https://github.com/therecipe/qt>
+- [How to add a GUI to your Golang app in 5 easy steps (powered by Electron)](https://hackernoon.com/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0)
+- [QT - Open source widget toolkit](https://github.com/therecipe/qt)
+- [UI - Platform-native GUI library for Go](https://github.com/andlabs/ui)
 
 ### Web
 
 - [GraphQL Schema Language Cheat Sheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
 - [Learn Golang + GraphQL + Relay #1](https://wehavefaces.net/learn-golang-graphql-relay-1-e59ea174a902)
 - [Learn Golang + GraphQL + Relay #2](https://wehavefaces.net/learn-golang-graphql-relay-2-a56cbcc3e341)
-- <https://github.com/mingrammer/go-web-framework-stars>
+- [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 
-### Div
+### Other
 
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 
