@@ -12,6 +12,14 @@
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
+### Commands
+
+Patch a file from another branch
+
+```sh
+git diff current_branch target_branch -- src/filename | git apply -3
+```
+
 ## Github CLI
 
 Github command line tool [CLI Github](https://cli.github.com/)

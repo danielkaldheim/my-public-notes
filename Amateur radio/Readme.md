@@ -12,8 +12,11 @@
 
 ## Articles
 
-- [ALL BAND RADIO USES ARDUINO AND SI4730](https://hackaday.com/2020/02/12/all-band-radio-uses-arduino-and-si4730/)
-- [NAME THAT UNKNOWN RF SIGNAL WITH A LITTLE FFT MAGIC](https://hackaday.com/2020/02/11/name-that-unknown-rf-signal-with-a-little-fft-magic/)
+- [All band radio uses arduino and si4730](https://hackaday.com/2020/02/12/all-band-radio-uses-arduino-and-si4730/)
+- [Mobile transmitter gets internal GPS and bluetooth](https://hackaday.com/2020/08/23/mobile-transmitter-gets-internal-gps-and-bluetooth/)
+- [Name that unknown rf signal with a little fft magic](https://hackaday.com/2020/02/11/name-that-unknown-rf-signal-with-a-little-fft-magic/)
+- [Raspberry Pi for ham radio](https://hamprojects.wordpress.com/2020/09/06/raspberry-pi-for-ham-radio/)
+- [The $50 ham: Entry-level transceivers for technicians](https://hackaday.com/2019/03/15/the-50-ham-entry-level-transceivers-for-technicians/)
 - [Walkie Talkies](https://electronics.howstuffworks.com/walkie-talkies5.htm)
 
 ## Links
