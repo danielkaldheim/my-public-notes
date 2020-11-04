@@ -7,6 +7,7 @@
 ### Web
 
 - [Rocket - web framework](https://rocket.rs/)
+- [Are we web yet? Yes! And it's freaking fast!](http://www.arewewebyet.org/)
 
 ### GUI
 

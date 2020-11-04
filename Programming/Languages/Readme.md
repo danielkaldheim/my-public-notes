@@ -7,4 +7,5 @@
 - [Hammerspoon](./hammerspoon.md)
 - [Kotlin](./kotlin.md)
 - [Rust](./rust.md)
+- [R](./Rlang.md)
 - [TypeScript](./TypeScript.md)

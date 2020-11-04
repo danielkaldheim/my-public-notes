@@ -52,3 +52,4 @@ The mjbots quad is a small dynamic quadruped, like the MIT mini-Cheetah, but ful
 ## Others
 
 - [Robot Cat](https://www.instructables.com/id/Robot-Cat)
+- [Robot gets around on all fours, thanks to many, many servos](https://hackaday.com/2020/10/13/robot-gets-around-on-all-fours-thanks-to-many-many-servos/)

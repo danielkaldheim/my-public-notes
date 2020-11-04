@@ -27,3 +27,6 @@ tasks include:
 "Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more"
 <https://auphonic.com/>
 
+## Radio receiver
+
+- [educ8s.tv](https://educ8s.tv/esp32-internet-radio)
