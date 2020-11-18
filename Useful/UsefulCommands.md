@@ -2,6 +2,8 @@
 
 # Useful Commands
 
+[Linux oneliners](https://linuxcommandlibrary.com/basic/oneliners.html)
+
 ## Terminal recording
 
 [Asciinema](https://asciinema.org/docs/how-it-works)

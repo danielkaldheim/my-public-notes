@@ -7,3 +7,4 @@
 - [Tmux](./tmux.md)
 - [Ubuntu](./Ubuntu.md)
 - [Vim](./vim.md)
+- [KiCAD](./KiCAD.md)
