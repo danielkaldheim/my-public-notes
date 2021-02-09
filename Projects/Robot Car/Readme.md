@@ -1,4 +1,8 @@
+[< Parent](../Readme.md)
+
 # Robot car
+
+![Robot car](./IMG_3944.jpeg)
 
 ## Components
 
