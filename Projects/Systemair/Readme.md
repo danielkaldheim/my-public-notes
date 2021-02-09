@@ -4,6 +4,13 @@
 
 Model: Systemair  VR 400 DCV/B R
 
+## System Air ESP32 Bridge
+
+I have built a circuit board that works with system air, checkout this [repository](https://github.com/danielkaldheim/systemair-esp32-bridge) for more information.
+
+![PCB](images/System%20Air.png)
+![Schematics](images/Schematic.png)
+
 ## Images
 
 ![Make and model](./images/IMG_3640.jpeg)
