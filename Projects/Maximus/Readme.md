@@ -48,6 +48,7 @@ Frame v1 is to unstable. The whole body warps as the frame is to thin and have o
 ## Articles
 
 - [Comparing Gyroscope Datasheets](https://learn.adafruit.com/comparing-gyroscope-datasheets)
+- [PID Controller Implementation in Software](https://www.youtube.com/watch?v=zOByx3Izf5U)
 
 ## Inspiration
 
